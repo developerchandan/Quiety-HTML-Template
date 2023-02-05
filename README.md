@@ -1,0 +1,1 @@
+# Quiety-HTML-Template
